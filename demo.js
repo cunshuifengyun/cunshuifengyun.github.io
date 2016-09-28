@@ -9,22 +9,10 @@ var ap4 = new APlayer({
     mode: 'random',
     music: [
         {
-            title: 'あっちゅ～ま青春!',
-            author: '七森中☆ごらく部',
-            url: 'http://devtest.qiniudn.com/あっちゅ～ま青春!.mp3',
-            pic: 'http://devtest.qiniudn.com/あっちゅ～ま青春!.jpg'
-        },
-        {
-            title: 'secret base~君がくれたもの~',
-            author: '茅野愛衣',
-            url: 'http://devtest.qiniudn.com/secret base~.mp3',
-            pic: 'http://devtest.qiniudn.com/secret base~.jpg'
-        },
-        {
-            title: '回レ！雪月花',
-            author: '小倉唯',
-            url: 'http://devtest.qiniudn.com/回レ！雪月花.mp3',
-            pic: 'http://devtest.qiniudn.com/回レ！雪月花.jpg'
+            title: '太阳的后裔合集',
+            author: '未知',
+            url: '../resource/music/太阳的后裔合集.mp3',
+            pic: 'https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=3570221259,4023704566&fm=58'
         }
     ]
 });
