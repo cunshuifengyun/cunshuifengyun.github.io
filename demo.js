@@ -11,7 +11,7 @@ var ap4 = new APlayer({
         {
             title: '太阳的后裔合集',
             author: '未知',
-            url: '../resource/music/太阳的后裔合集.mp3',
+            url: 'http://oe9nwsvcl.bkt.clouddn.com/%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94%E5%90%88%E9%9B%86.mp3',
             pic: 'https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=3570221259,4023704566&fm=58'
         },
 		{
